@@ -14,3 +14,4 @@ Mvp
 To run the App require React Native & Expo so once Installed Npm I to add modules then Npm Start will bring up Metro Bundler where you can either Run in Browser, 
 Use an Emulator or Scan QR Code and run using Expo Go App.
 
+![image](https://user-images.githubusercontent.com/83863108/135411409-69fc0de6-c1d0-4023-a084-b8a0f79ab216.png)
