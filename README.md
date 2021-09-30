@@ -15,3 +15,4 @@ To run the App require React Native & Expo so once Installed Npm I to add module
 Use an Emulator or Scan QR Code and run using Expo Go App.
 
 ![image](https://user-images.githubusercontent.com/83863108/135411409-69fc0de6-c1d0-4023-a084-b8a0f79ab216.png)
+<img width="243" alt="Screenshot 2021-09-30 at 08 58 22" src="https://user-images.githubusercontent.com/83863108/135411716-f1248db1-257d-46ca-8481-ee9f8487b639.png">
